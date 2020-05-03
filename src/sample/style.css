@@ -1,0 +1,12 @@
+#pane {
+ -fx-background-color: whitesmoke;
+
+}
+
+.button {
+    -fx-background-color: #B2BABB;
+}
+
+.button:focused {
+    -fx-background-color: #E5E8E8;
+}
